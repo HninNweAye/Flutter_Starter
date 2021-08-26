@@ -1,4 +1,4 @@
-# ismp_starter
+# flutter_starter
 
 A new Flutter project.
 
