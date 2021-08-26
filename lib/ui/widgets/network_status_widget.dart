@@ -10,10 +10,11 @@ class NetworkStatusWidget extends ConsumerWidget {
   Widget build(BuildContext context, ScopedReader watch) {
     final network = watch(networkStatusProvider);
     return Row(
-      mainAxisSize: MainAxisSize.max,
+      mainAxisSize: MainAxisSize.min,
       children: [
         Container(
           width: 10,
+          height: 10,
           margin: const EdgeInsets.all(5),
           decoration: BoxDecoration(
               color:

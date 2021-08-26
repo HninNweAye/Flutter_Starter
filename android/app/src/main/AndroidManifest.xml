@@ -2,7 +2,7 @@
     package="com.example.ismp_starter">
    <application
         android:label="ismp_starter"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

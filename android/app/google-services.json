@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33569066398",
+    "project_id": "ismp-starter",
+    "storage_bucket": "ismp-starter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33569066398:android:c461d96eb0e2491b1a9a8f",
+        "android_client_info": {
+          "package_name": "com.example.ismp_starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33569066398-cc2hjn2b8594l53gorppmmg8q4uhddhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJbLH7moXFCXe5MXJNQeRA8jV0u1lu25s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33569066398-cc2hjn2b8594l53gorppmmg8q4uhddhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
